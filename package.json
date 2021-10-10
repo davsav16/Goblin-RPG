@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/davsav16/Goblin-RPG#readme",
   "dependencies": {
+    "inquirer": "^8.2.0",
+    "install": "^0.13.0",
     "jest": "^27.2.4"
   }
 }
